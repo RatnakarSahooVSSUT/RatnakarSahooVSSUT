@@ -33,13 +33,6 @@ My work primarily explores applications in **environmental monitoring, healthcar
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RatnakarSahooVSSUT&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatnakarSahooVSSUT&layout=compact)
-
----
-
 ## 🏆 Highlights
 🏅 IEEE YESIST12 Finalist  
 💼 Intern @ NIT Rourkela  
