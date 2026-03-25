@@ -1,13 +1,56 @@
-Hi 👋 I’m Ratnakar
+# Hi 👋, I'm Ratnakar Sahoo
 
-I’m a third-year Electronics and Telecommunication Engineering student who is actively learning and building skills in embedded systems and applied electronics. I enjoy understanding concepts by working on practical projects rather than only studying theory, which has led me to explore Arduino, Raspberry Pi, and sensor-based systems.
+🎓 B.Tech (Electronics & Telecommunication) @ VSSUT Burla  
+🔧 Embedded Systems | IoT | FPGA | Real-Time Systems  
 
-I have worked on embedded and IoT-style projects using platforms like Arduino and Raspberry Pi, where I focused on sensor interfacing, basic automation logic, and system-level integration. I often use simulation tools such as Tinkercad to design and test circuits before moving to hardware, which helps me understand behavior, timing, and interactions between components more clearly.
+---
 
-To improve consistency and hands-on experience, I have started a **30 Days - 30 Projects** challenge, where I am building and documenting one intermediate-level embedded systems project every day. Through this challenge, I aim to strengthen my understanding of control systems, finite state machines, sensor integration, and real-world problem solving. All projects are being documented on GitHub as part of my learning journey.
+## 🚀 About Me
+I am passionate about building real-world embedded and IoT systems focused on **sensor integration, real-time data acquisition, and intelligent hardware solutions**.
 
-I have also participated in national and international innovation-focused programs and hackathons. I was part of the **IEEE YESIST12** initiative, where my team advanced to the finals held in **Malaysia**, which gave me exposure to global-level problem statements, teamwork, and system design thinking. Additionally, I have participated in the **Smart India Hackathon (SIH)**, where I worked on problem solving under time constraints and collaborative development.
+My work primarily explores applications in **environmental monitoring, healthcare systems, and smart automation**.
 
-Alongside technical work, I am an active IEEE volunteer and enjoy contributing to technical events, workshops, and innovation-driven activities. These experiences have helped me develop communication skills, teamwork, and a strong interest in building impactful engineering solutions.
+---
 
-This GitHub profile serves as a record of my learning, projects, and continuous improvement. I am focused on growing step by step, learning from mistakes, and strengthening my practical skills in embedded systems, IoT, and hardware-based problem solving.
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge)
+
+---
+
+## 💡 Key Projects
+
+🔹 **ClimaPulse** – IoT-based air quality monitoring with real-time data visualization  
+🔹 **AquaNova** – Smart irrigation system using sensor-based automation  
+🔹 **EYE-Q** – IoT-enabled eye health monitoring (IEEE YESIST12 Finalist 🇲🇾)  
+🔹 **FPGA Camera System** – Real-time VGA pipeline using OV7670 + Basys 3  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RatnakarSahooVSSUT&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatnakarSahooVSSUT&layout=compact)
+
+---
+
+## 🏆 Highlights
+🏅 IEEE YESIST12 Finalist  
+💼 Intern @ NIT Rourkela  
+⚡ 30 Days – 30 Embedded Projects Challenge  
+
+---
+
+## 🌐 Connect
+💼 LinkedIn: www.linkedin.com/in/ratnakar-sahoo-074b10293 
+📧 Email: ratnakarsahooetc093@gmail.com  
+
+---
+
+⭐ *Building. Learning. Improving — every day.*
